@@ -1,25 +1,25 @@
-# Portinari Theme - Totvs Corp Theme
+# PO Theme - Totvs Corp Theme
 
-Tema da Totvs para aplicações desenvolvidas com [Portinari UI](http://portinari.io).
+Tema da Totvs para aplicações desenvolvidas com [PO UI](http://po-ui.io).
 
 ### Como usar o tema
 
-O **Portinari UI** possui o seu próprio tema, mas disponibilizamos um dos tema usados pela TOTVS.
+O **PO UI** possui o seu próprio tema, mas disponibilizamos um dos tema usados pela TOTVS.
 
-Para utilizá-lo, instale o pacote `@totvs/portinari-totvs-corp-theme` conforme abaixo:
+Para utilizá-lo, instale o pacote `@totvs/po-totvs-corp-theme` conforme abaixo:
 
 ```
-npm i --save @totvs/portinari-totvs-corp-theme
+npm i --save @totvs/po-totvs-corp-theme
 ```
 
 Em seguida, atualize o arquivo `angular.json` para utilizar o tema.
 
 ```json
 "styles": [
-  "node_modules/@totvs/portinari-totvs-corp-theme/css/po-theme-custom.min.css"
+  "node_modules/@totvs/po-totvs-corp-theme/css/po-theme-custom.min.css"
 ]
 ```
 
-> Leia mais sobre [como criar seu próprio tema customizado do Portinari UI][create-theme-customization].
+> Leia mais sobre [como criar seu próprio tema customizado do PO UI][create-theme-customization].
 
-[create-theme-customization]: https://portinari.io/guides/create-theme-customization
+[create-theme-customization]: https://po-ui.io/guides/create-theme-customization
