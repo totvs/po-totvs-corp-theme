@@ -1,6 +1,6 @@
 {
   "name": "@totvs/po-totvs-corp-theme",
-  "version": "1.11.0",
+  "version": "2.0.0-beta.1",
   "author": "Totvs",
   "description": "PO Theme - Totvs Corp Theme",
   "repository": {
@@ -12,6 +12,6 @@
     "build": "po-theme build --fonts"
   },
   "devDependencies": {
-    "@po/style": "^1.11.0"
+    "@po-ui/style": "^2.0.0-beta.1"
   }
 }
